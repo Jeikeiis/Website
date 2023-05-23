@@ -11,7 +11,7 @@ function Experiencia() {
         <h4>Email</h4>
         <p>📧 Jeikeiis16@gmail.com</p>
         <h4>Celular</h4>
-        <p>📱 095 856 016</p>
+        📱 <p class="censurado">📱 095 856 016</p>
       </fieldset>
     </div>
   );
