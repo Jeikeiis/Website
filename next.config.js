@@ -1,6 +1,6 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  exclude: /\.(png|jpg|jpeg|gif|svg)$/,
-}
+/**
+ * @type {import('next').NextConfig}
+ */
+const nextConfig = {}
 
 module.exports = nextConfig
