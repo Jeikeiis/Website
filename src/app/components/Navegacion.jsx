@@ -6,7 +6,7 @@ function Navegacion() {
       <fieldset class="navegacion">
         <ul>
           <li class="listaDeNavegacion">
-            <Link href="/">Sobre mí</Link>
+            <Link href="">Sobre mí</Link>
           </li>
         </ul>
         <ul>
