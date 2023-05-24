@@ -4,6 +4,7 @@ function Navegacion() {
   return (
     <div class>
       <fieldset class="navegacion">
+        <div class="deNavegacion">
         <ul>
           <li class="listaDeNavegacion">
             <Link href="/">Sobre mí</Link>
@@ -18,7 +19,7 @@ function Navegacion() {
           <li class="listaDeNavegacion">
             <Link href="/contacto">Contacto</Link>
           </li>
-        </ul>
+        </ul></div>
       </fieldset>
     </div>
   );

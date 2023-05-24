@@ -14,6 +14,7 @@
   display: inline-block;
 }
 
+
 .censurado::after {
   content: "";
   position: absolute;
@@ -55,15 +56,27 @@ padding:3%;
   height: 100%;
 }
 
+.deNavegacion
+{
+  flex-direction: row;
+  display: flex;
+  background-color: inherit;
+  border-color: inherit;
+  border-radius: 5%;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+}
+
 .navegacion {
   background-color: rgba(0, 0, 128, 0.418);
   border: 2px solid inherit;
   text-decoration: none !important;
   padding: 1%;
   border-radius: 3%;
-  display: flex;
   flex-direction: row;
   justify-content: center;
+  display: flex;
 }
 a {
   text-decoration: none;
