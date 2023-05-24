@@ -1,4 +1,4 @@
-function Experiencia() {
+function Contacto() {
   return (
     <div>
       <div class="TituloDePagina">
@@ -17,4 +17,4 @@ function Experiencia() {
   );
 }
 
-export default Experiencia;
+export default Contacto;
