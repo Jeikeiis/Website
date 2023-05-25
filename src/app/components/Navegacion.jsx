@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Navegacion() {
   return (
-    <div class>
+    <div>
       <fieldset class="navegacion">
         <div class="deNavegacion">
         <ul>

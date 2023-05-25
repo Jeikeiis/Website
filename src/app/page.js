@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Inicio() {
+function Home() {
   return (
     <div class="contenedor">
       <div class="TituloDePagina">
@@ -71,4 +71,4 @@ function Inicio() {
   );
 }
 
-export default Inicio;
+export default Home;
